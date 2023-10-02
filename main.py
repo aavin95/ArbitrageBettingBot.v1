@@ -6,7 +6,7 @@ def main():
     bookmakers = ["bet365", "ladbrokes", "bovada", "betfair", "draftkings"]
 
     for sport in sports:
-        check_arbitrage_for_sport(sport, bookmakers)
+        check_arbitrage_for_sport(sport)
 
 if __name__ == "__main__":
     main()

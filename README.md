@@ -1,4 +1,5 @@
 Sports Arbitrage Betting Tool
+
 This tool identifies arbitrage betting opportunities for NFL and NCAAF games. By comparing odds across different bookmakers, the tool determines if there's a possibility to guarantee a profit regardless of the outcome of the game.
 
 Overview

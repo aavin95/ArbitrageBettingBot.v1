@@ -27,6 +27,7 @@ Once the script is running, it will fetch odds for upcoming NFL and NCAAF games 
 
 Files
 oddsapi.py: Contains the function to fetch odds data from OddsAPI.
+
 arbitrage.py: Contains functions to identify arbitrage opportunities by comparing odds from different bookmakers.
 main.py: The main script that brings everything together and runs the tool.
 Limitations
